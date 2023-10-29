@@ -40,28 +40,28 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://github.com/asdfk007/pages/blob/main/img/%E5%B0%8F%E5%B2%9A.JPG?raw=true
+favicon: https://pages.pylange.com/img/%E5%B0%8F%E5%B2%9A.JPG
 
 # Avatar (頭像)
 avatar:
-  img: https://github.com/asdfk007/pages/blob/main/img/%E5%B0%8F%E5%B2%9A.JPG?raw=true
+  img: https://pages.pylange.com/img/%E5%B0%8F%E5%B2%9A.JPG
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://github.com/asdfk007/pages/blob/main/img/background.JPG?raw=true
+index_img: https://pages.pylange.com/img/background.JPG
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://github.com/asdfk007/pages/blob/main/img/background.JPG?raw=true
+default_top_img: https://pages.pylange.com/img/background.JPG
 
 # The banner image of archive page
-archive_img: https://github.com/asdfk007/pages/blob/main/img/background.JPG?raw=true
+archive_img: https://pages.pylange.com/img/background.JPG
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://github.com/asdfk007/pages/blob/main/img/background.JPG?raw=true
+tag_img: https://pages.pylange.com/img/background.JPG
 
 # The banner image of tag page
 # format:
