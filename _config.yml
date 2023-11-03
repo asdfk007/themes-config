@@ -40,28 +40,28 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://pages.pylange.com/img/%E5%B0%8F%E5%B2%9A.JPG
+favicon: https://ziyuan.pylange.com/blog/pylange.JPG
 
 # Avatar (頭像)
 avatar:
-  img: https://pages.pylange.com/img/%E5%B0%8F%E5%B2%9A.JPG
+  img: https://ziyuan.pylange.com/blog/pylange.JPG
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://pages.pylange.com/img/background.JPG
+index_img: https://ziyuan.pylange.com/blog/background.JPG
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://pages.pylange.com/img/background.JPG
+default_top_img: https://ziyuan.pylange.com/blog/background.JPG
 
 # The banner image of archive page
-archive_img: https://pages.pylange.com/img/background.JPG
+archive_img: https://pages.pylange.com/blog/background.JPG
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img: https://pages.pylange.com/img/background.JPG
+tag_img: https://pages.pylange.com/blog/background.JPG
 
 # The banner image of tag page
 # format:
@@ -231,7 +231,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/asdfk007
   card_announcement:
     enable: true
     content: This is my Blog
